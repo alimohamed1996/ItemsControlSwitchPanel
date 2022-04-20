@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ItemsControlSwitchPanel/Views/MainWindow.axaml" value="ItemsControlSwitchPanel/ItemsControlSwitchPanel.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
